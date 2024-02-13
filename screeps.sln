@@ -5,6 +5,12 @@ VisualStudioVersion = 17.9.34321.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "screeps", "screeps\screeps.esproj", "{35AB2413-A66A-4681-AFC5-7A8546C3769D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64ECFDCF-C5AA-4A8C-8968-78A12271B201}"
+	ProjectSection(SolutionItems) = preProject
+		screeps.json = screeps.json
+		rollup.config.mjs = rollup.config.mjs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

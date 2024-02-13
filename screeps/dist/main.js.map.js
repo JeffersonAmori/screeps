@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","sources":["../src/main.ts"],"sourcesContent":["export const loop =\r\n    () => { console.log('Hello world'); };"],"names":[],"mappings":";;AAAa,MAAA,IAAI,GACb,MAAQ,EAAA,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,CAAC;;;;"}
