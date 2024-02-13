@@ -1,6 +1,5 @@
 {
-  "name": "screeps",
-  "type": "module",
+  "name": "os",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -18,9 +17,5 @@
     "@typescript-eslint/parser": "^7.0.1",
     "eslint": "^8.56.0",
     "typescript": "^5.3.3"
-  },
-  "dependencies": {
-    "@types/lodash": "^4.14.202",
-    "lodash": "^4.17.21"
   }
 }
