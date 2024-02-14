@@ -1,6 +1,6 @@
 import { ProcessPriority } from "./constants";
 import { ProcessStatus } from "./process-status";
-import { ProcessSleepByProcess, ProcessSleepByTime } from "OS/kernel/process";
+import { ProcessSleepByProcess, ProcessSleepByTime } from "./process";
 import { Process } from "./process";
 import * as _ from 'lodash';
 
