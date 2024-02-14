@@ -1,1 +1,5 @@
-<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/0.5.58794-alpha" />
+<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/0.5.58794-alpha">
+  <ItemGroup>
+    <Folder Include="libs\ErrorMapper\" />
+  </ItemGroup>
+</Project>
